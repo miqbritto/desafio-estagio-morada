@@ -37,10 +37,10 @@ Os principais desafios enfrentados durante o desenvolvimento do projeto foram:
 
 ### Passos para executar no IntelliJ IDEA
 
-1. **Baixe o repositório:**
+1. **Clone o repositório:**
 
    ```sh
-   git clone [https://github.com/miqbritto/desafio-estagio-morada.git]
+   git clone https://github.com/miqbritto/desafio-estagio-morada.git
    cd desafio-estagio-morada
 
 2. **Abra com IntelliJ IDEA:**
